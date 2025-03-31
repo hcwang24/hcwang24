@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # WELCOME TO MY PAGE 👋
 
-**Data Scientist, Health Science Researcher, and Bioinformaticians**
+**Data Scientist, Statistician, and Bioinformatician**
 
 ## Objective
 
-Data Scientist and Health Science Research expert with over 8 years of experience in data analytics, leveraging both structured and unstructured data sources. Proficient in applying machine learning, statistical modeling, and data science techniques to solve complex problems. Expertise in creating data-driven insights for executive-level decision-making, especially in healthcare settings.
+Data Scientist and Health Science Research expert with over 8 years of experience in data analytics, skilled in leveraging both structured and unstructured data sources to deliver actionable insights and optimize decision-making for stakeholders. Proficient in applying machine learning, statistical modeling, and data science techniques to solve complex problems. 
 
 ## Core Skills
 
@@ -28,7 +28,7 @@ Data Scientist and Health Science Research expert with over 8 years of experienc
 | **Database Management**         | MySQL, PostgreSQL, MongoDB, NoSQL                                                       |
 | **Data Engineering**            | ETL/ELT, data modeling, schema design, data integration                                 |
 | **Machine Learning**            | Scikit-learn, TensorFlow, PyTorch, Neural Networks, Ensemble methods, XGBoost, LightGBM |
-| **Statistics & Analytics**      | Regression, Bayesian/Frequentist inference, causal inference, experimental designs      |
+| **Statistics & Analytics**      | Descriptive statistics, Regression, Bayesian/Frequentist inference, causal inference, experimental designs      |
 | **Natural Language Processing** | Sentiment analysis, text classification, spaCy, NLTK, Hugging Face, BERT, GPT, Word2Vec |
 | **Visualization & Dashboards**  | Plotly, Matplotlib, ggplot2, Altair, R Shiny, Dash, Power BI, Tableau                   |
 | **Cloud Computing & Big Data**  | AWS EC2, S3, Azure, Google Cloud, Hadoop, Spark                                         |
@@ -42,6 +42,10 @@ Data Scientist and Health Science Research expert with over 8 years of experienc
 | Master of Data Science                   | University of British Columbia | Sep 2022 – Jun 2023 | Overall GPA: 95%. Recipient of the UBC MDS domestic scholarship (\$10,000).     |
 | Master of Science (Stem Cell Biology)    | McGill University              | Sep 2017 – Aug 2020 | Overall GPA: 4.0/4.0. Recipient of Quebec FRQS training scholarship (\$35,000). |
 | Bachelor of Science (Honours Immunology) | McGill University              | Sep 2013 – Jun 2017 |                                                                                 |
+| Generative AI Fundamentals Certification | Databricks                     | Feb 2025            |[View Badge](https://credentials.databricks.com/22cb9c12-375b-4bb5-bebb-999a47908b07#acc.e69WJOSG) |
+| Databricks Fundamentals Certification    | Databricks                     | March 2025          |[View Badge](https://credentials.databricks.com/e54b0f6e-956a-498e-a450-8661dfc93519#acc.ToCumH2B) |
+| AWS Certified Cloud Practitioner Certification | Amazon Web Services      | In Progress         |                                                                                 |
+
 
 ## Data Science Projects
 
